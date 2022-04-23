@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="largeur">140dp</dimen>
+    <dimen name="longueur">90dp</dimen>
+    <dimen name="marge_bas">236dp</dimen>
+    <dimen name="marge_haut">92dp</dimen>
+</resources>
